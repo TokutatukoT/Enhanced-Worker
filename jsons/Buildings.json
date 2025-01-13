@@ -1,25 +1,13 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "National Workforce Center",
+		"cost": 1,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["[-100]% construction time for [All] improvements",
+			"[Worker] gains the [Ignore terrain cost] promotion",
+			"[Worker] gains [3] movement",
+			"Free [Worker] appears",
+			"Destroyed when the city is captured",
+			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}
 ]

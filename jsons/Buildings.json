@@ -4,8 +4,6 @@
 		"cost": 1,
 		"isNationalWonder": true,
 		"uniques": ["[-100]% construction time for [All] improvements",
-			"[Worker] gains the [Ignore terrain cost] promotion",
-			"[Worker] gains [3] movement",
 			"Free [Worker] appears",
 			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]

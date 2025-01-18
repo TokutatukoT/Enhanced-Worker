@@ -1,3 +1,3 @@
 # blessed-worker
 
-This mod enhances improvement rate. Have fun!
+This mod decreases construction time for improvements. Have fun!

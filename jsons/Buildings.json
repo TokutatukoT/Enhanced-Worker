@@ -5,6 +5,7 @@
 		"isNationalWonder": true,
 		"uniques": ["[-100]% construction time for [All] improvements",
 			"Free [Worker] appears",
+			"[+1000]% Production when constructing [Worker] units [in all cities]",
 			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}

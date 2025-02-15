@@ -1,9 +1,12 @@
 [
 	{
 		"name": "National Workforce Center",
-		"cost": 1,
+		"cost": 0,
 		"isNationalWonder": true,
-		"uniques": ["[-100]% construction time for [All] improvements",
+		"uniques": ["Can be purchased with [Gold] [in capital]",
+			"Moves to new capital when capital changes",
+			"[-100]% construction time for [All] improvements",
+			"All newly-trained [Worker] units [in all cities] receive the [Industriousness] promotion",
 			"Free [Worker] appears",
 			"[+1000]% Production when constructing [Worker] units [in all cities]",
 			"Destroyed when the city is captured",

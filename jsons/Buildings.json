@@ -1,6 +1,6 @@
 [
 	{
-		"name": "National Workforce Center",
+		"name": "National Agency of Labor",
 		"cost": 0,
 		"isNationalWonder": true,
 		"uniques": ["Can be purchased with [Gold] [in capital]",
@@ -8,6 +8,7 @@
 			"[-100]% construction time for [All] improvements",
 			"All newly-trained [Worker] units [in all cities] receive the [Industriousness] promotion",
 			"[+1000]% Production when constructing [Worker] units [in all cities]",
+			"May buy [Worker] units for [1] [Worker] [in all cities]",
 			"Destroyed when the city is captured",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	}

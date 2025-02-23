@@ -1,3 +1,3 @@
 # blessed-worker
 
-This mod decreases construction time for improvements. Have fun!
+This mod enhances workers. Have fun!

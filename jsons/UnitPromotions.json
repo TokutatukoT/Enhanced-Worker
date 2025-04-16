@@ -7,7 +7,7 @@
      			"[+3] Movement",
 			"[1] Movement point cost to embark",
 			"[1] Movement point cost to disembark",
-      			"Can instantly construct a [non-[Great]] improvement",
+      			"Can instantly construct a [non-[Great]] improvement <for [0] movement>",
 			"Can move immediately once bought"
     ]
 	}
